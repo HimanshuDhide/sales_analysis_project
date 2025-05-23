@@ -71,11 +71,17 @@ Sales performance near seasonal events
 📈 KPIs Calculated
 
 📦 Total Sales by Category/Sub-Category
+
 💵 Average Order Value (AOV)
+
 🔁 Repeat Customer Rate
+
 ⏱️ Average Delivery Time by Ship Mode
+
 🗓️ Month-over-Month Sales Change
+
 🛒 Reorder Rate
+
 📉 Sample Insights
 
 Repeat customers contribute ~33.94% of total orders, indicating strong customer retention potential.
@@ -85,8 +91,11 @@ Shipping via First Class results in the fastest delivery but has moderate sales 
 🚀 How to Use
 
 Clone this repository.
-Import the sales dataset into your SQL Server or PostgreSQL.
-Run queries in a logical order or by section.
+
+Import the sales dataset into your SQL Server or PostgreSQL
+
+Run queries in a logical order or by section
+
 Modify queries to explore more insights or localize for your region.
 
 
