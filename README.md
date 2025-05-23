@@ -19,6 +19,7 @@ Evaluate delivery/shipping performance.
 Derive KPIs relevant to sales, marketing, and operations teams.
 
 🔧 Key Skills Demonstrated
+
 Data Cleaning & Filtering
 Aggregations & Grouping
 CTEs (Common Table Expressions)
@@ -28,38 +29,47 @@ Date-Time Transformations
 Exploratory Data Analysis via SQL
 
 📌 Data Source
+
 The dataset simulates transactional retail sales data and includes:
 Order_ID, Order_Date, Customer_ID, Product_Name, Sales, Category, Segment, Region, City, Ship_Date, Ship_Mode, Postal_Code.
 
 🧾 SQL Questions Answered
+
 📦 Product & Category Insights
+
 Top 5 best-selling product categories
 Highest average sales per sub-category
 Products with highest/lowest order frequency
 
 👤 Customer & Segment Analysis
+
 Top customers by number of orders
 Revenue and AOV (average order value) per segment
 
 📅 Sales Trends Over Time
+
 Monthly and yearly sales trends
 Seasonal pattern detection (e.g. year-end surge)
 
 🌍 Geographic Performance
+
 Best and worst-performing regions and cities
 State-level sales breakdown
 
 🚚 Shipping Efficiency
+
 Average delivery time by shipping mode
 Correlation between shipping mode and sales
 
 🔁 Advanced Analytics
+
 Percentage of repeat customers
 Reorder rates per product
 High-value postal codes
 Sales performance near seasonal events
 
 📈 KPIs Calculated
+
 📦 Total Sales by Category/Sub-Category
 💵 Average Order Value (AOV)
 🔁 Repeat Customer Rate
@@ -67,11 +77,13 @@ Sales performance near seasonal events
 🗓️ Month-over-Month Sales Change
 🛒 Reorder Rate
 📉 Sample Insights
+
 Repeat customers contribute ~33.94% of total orders, indicating strong customer retention potential.
 Technology was the top-performing category in revenue.
 Shipping via First Class results in the fastest delivery but has moderate sales volume.
 
 🚀 How to Use
+
 Clone this repository.
 Import the sales dataset into your SQL Server or PostgreSQL.
 Run queries in a logical order or by section.
