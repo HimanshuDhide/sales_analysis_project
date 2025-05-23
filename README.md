@@ -1,4 +1,4 @@
-📊 Retail Sales & Order Analysis with SQL
+📊 Retail Sales & Order Analysis with SQL & PowerBi
 
 Author: Himanshu J. Dhide
 
@@ -8,25 +8,33 @@ Tools Used: SQL (MS SQL Server), INFORMATION_SCHEMA, CTEs, Window Functions,Powe
 
 📄 Overview
 
-This project focuses on analyzing retail sales data using structured SQL queries to uncover actionable business insights. The analysis covers product performance, customer behavior, sales trends, shipping efficiency, and more. The goal is to simulate real-world analytics use cases and demonstrate technical proficiency, data storytelling, and business acumen.
+This project analyzes retail sales data using SQL and visualizes business insights with Power BI. It simulates real-world business scenarios to help decision-makers identify sales trends, customer behavior, product performance, and delivery efficiency. It demonstrates end-to-end analytical thinking — from raw data querying to storytelling through dashboards.
 
 🧠 Business Objectives
 
-Understand top-performing product categories and sub-categories.
-Analyze customer segments and repeat behavior.
-Identify trends in sales over time and across regions.
-Evaluate delivery/shipping performance.
-Derive KPIs relevant to sales, marketing, and operations teams.
+Discover top-performing products and categories.
+
+Segment and understand customer behavior.
+
+Identify monthly, seasonal, and yearly trends.
+
+Improve operational efficiency through shipping insights.
+
+Deliver data-driven recommendations via interactive dashboards.
 
 🔧 Key Skills Demonstrated
 
-Data Cleaning & Filtering
-Aggregations & Grouping
-CTEs (Common Table Expressions)
-Performance-Oriented Query Design
-KPI Definition & Measurement
-Date-Time Transformations
-Exploratory Data Analysis via SQL
+🧮 Advanced SQL (CTEs, Window Functions, Grouping)
+
+📊 Power BI Dashboard Design & Layout
+
+📈 DAX Measures for KPI Calculation
+
+📎 Data Modeling and Relationships
+
+🎯 Business-Oriented Data Storytelling
+
+
 
 📌 Data Source
 
@@ -81,12 +89,6 @@ Sales performance near seasonal events
 🗓️ Month-over-Month Sales Change
 
 🛒 Reorder Rate
-
-📉 Sample Insights
-
-Repeat customers contribute ~33.94% of total orders, indicating strong customer retention potential.
-Technology was the top-performing category in revenue.
-Shipping via First Class results in the fastest delivery but has moderate sales volume.
 
 🚀 How to Use
 
