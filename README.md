@@ -1,12 +1,17 @@
 📊 Retail Sales & Order Analysis with SQL
+
 Author: Himanshu J. Dhide
+
 Project Type: Portfolio Project
-Tools Used: SQL (MS SQL Server), INFORMATION_SCHEMA, CTEs, Window Functions
+
+Tools Used: SQL (MS SQL Server), INFORMATION_SCHEMA, CTEs, Window Functions,PowerBi
 
 📄 Overview
+
 This project focuses on analyzing retail sales data using structured SQL queries to uncover actionable business insights. The analysis covers product performance, customer behavior, sales trends, shipping efficiency, and more. The goal is to simulate real-world analytics use cases and demonstrate technical proficiency, data storytelling, and business acumen.
 
 🧠 Business Objectives
+
 Understand top-performing product categories and sub-categories.
 Analyze customer segments and repeat behavior.
 Identify trends in sales over time and across regions.
